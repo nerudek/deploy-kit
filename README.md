@@ -1,0 +1,1 @@
+# Deploy Kit — Ship to Production in One Command\n\nOne-command deployment to VPS, Railway, Fly.io, or Vercel — pick your target and go live in minutes with pre-built configurations\n\nSee [SKILL.md](./SKILL.md) for the full guide.\n\n---\nIf this saved you time: [PayPal.me/nerudek](https://www.paypal.me/nerudek)\nGitHub: [github.com/nerudek](https://github.com/nerudek)
